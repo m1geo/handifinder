@@ -9,7 +9,7 @@ There are many resources online for this project, with some links here:
 - [May 1993 QST Article by Bob K8DTS](https://www.ve5nn.ca/images/FoxHunt/handi-finder.pdf)
 - [The HANDI-Finder](https://www.handi-finder.com/)
 
-The [outputs](https://raw.githubusercontent.com/m1geo/handifinder/main/Outputs/) folder contains the Gerber files which can be zipped up and sent for manufacture at your chosen board-house.
+The [outputs](https://github.com/m1geo/handifinder/tree/main/Outputs) folder contains the Gerber files which can be zipped up and sent for manufacture at your chosen board-house.
 
 ## 3D View
 
