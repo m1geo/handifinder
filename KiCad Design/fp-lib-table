@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name handifinder_footprints)(type KiCad)(uri ${KIPRJMOD}/handifinder_footprints.pretty)(options "")(descr ""))
+)
